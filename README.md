@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Pranav, an Enthusiastic Developer and Gamer Ready to take on any chellenge !
+I am Pranav, an Enthusiastic Developer and Gamer Ready to take on any challenge !
 ____________________________________________________________________________________________________________________________________________
 
 <a href="https://github.com/Pranav-Talmale">
