@@ -23,14 +23,15 @@ ________________________________________________________________________________
 </p>
 
 ## Streak
-
-<p href="https://github.com/Pranav-Talmale">
+<br>
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Pranav-Talmale&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 </br>
 
 ## Contribution Graph 
-<p href="https://github.com/Pranav-Talmale">
+<br>
+<p align="center">
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Pranav-Talmale&bg_color=000000&color=9243ef&line=9243ef&point=fcaf00&radius=5"/>
 </p>
 </br>
