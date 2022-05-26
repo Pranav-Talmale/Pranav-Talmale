@@ -11,6 +11,17 @@ ________________________________________________________________________________
   <img align="center" height=157px width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Talmale&theme=midnight-purple&layout=compact" />
 </a>
 
+## Metrics
+<br>
+<p align="center">
+<img src="https://github.com/Pranav-Talmale/Pranav-Talmale/actions/workflows/main.yml/badge.svg" alt="https://github.com/Pranav-Talmale/Pranav-Talmale/actions/workflows/main.yml" /><br></p>
+</p>
+
+<br>
+<p align="center">
+<img src="https://github.com/Pranav-Talmale/Pranav-Talmale/blob/main/github-metrics.svg" alt="Pranav-Talmale" /><br>
+</p>
+
 ## Streak
 
 <p href="https://github.com/Pranav-Talmale">
