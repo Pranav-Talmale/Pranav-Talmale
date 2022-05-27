@@ -22,13 +22,6 @@ ________________________________________________________________________________
 <img src="https://github.com/Pranav-Talmale/Pranav-Talmale/blob/main/github-metrics.svg" alt="Pranav-Talmale" /><br>
 </p>
 
-## Streak
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Pranav-Talmale&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-</br>
-
 ## Contribution Graph 
 <br>
 <p align="center">
