@@ -8,7 +8,6 @@
 🎮 When I'm not immersed in lines of code, you can find me navigating virtual landscapes, battling mythical creatures, and unlocking new levels in the gaming universe. It's not just a hobby – it's a source of inspiration and creativity.
 
 🌐 Let's connect and collaborate on exciting projects! Together, we can code the future and achieve new levels of excellence.
-____________________________________________________________________________________________________________________________________________
 
 ## 💡 About
 <p align="center">
