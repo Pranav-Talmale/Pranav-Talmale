@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 👋 Hello there! I'm Pranav, a passionate developer with a penchant for gaming, on a mission to turn innovative ideas into reality through code.
 
 🚀 As a fervent explorer of the digital realm, I thrive on challenges and believe in the transformative power of technology. Whether it's crafting elegant solutions to complex problems or conquering virtual worlds, I'm always up for the adventure.
