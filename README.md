@@ -16,10 +16,11 @@ I'm a passionate **full-stack developer, Android custom ROM maintainer, and AI e
 💡 Always eager to **learn, build, and share** innovative tech solutions!
 
 ## 💡 About
-<p align="center"><img src="https://github-readme-streak-stats-delta-teal.vercel.app?user=Pranav-Talmale&theme=midnight-purple" alt="Pranav-Talmale" /></p>
-
 <p align="center">
-  <img align="center" height=156px width=400px src="https://github-readme-stats.vercel.app/api?username=Pranav-Talmale&show_icons=true&theme=midnight-purple" />
-
-  <img align="center" height=157px width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Talmale&theme=midnight-purple&layout=compact" />
+  <img src="https://github-readme-streak-stats-delta-teal.vercel.app?user=Pranav-Talmale&theme=midnight-purple" alt="Pranav-Talmale" />
 </p>
+
+<div align="center">
+  <img height=156px width=400px src="https://github-readme-stats.vercel.app/api?username=Pranav-Talmale&show_icons=true&theme=midnight-purple" />
+  <img height=157px width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Talmale&theme=midnight-purple&layout=compact" />
+</div>
