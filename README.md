@@ -22,10 +22,9 @@ I'm a passionate **full-stack developer, Android custom ROM maintainer, and AI e
 <p align="center">
   <img src="https://github-readme-streak-stats-delta-teal.vercel.app?user=Pranav-Talmale&theme=midnight-purple" alt="Pranav-Talmale" />
 </p>
-
 <div align="center">
-  <img height=156px width=400px src="https://github-readme-stats.vercel.app/api?username=Pranav-Talmale&show_icons=true&theme=midnight-purple" />
-  <img height=157px width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Talmale&theme=midnight-purple&layout=compact" />
+  <img height=156px width=400px src="https://github-readme-stats-swart-nu.vercel.app/api?username=Pranav-Talmale&show_icons=true&theme=midnight-purple" />
+  <img height=157px width=400px src="https://github-readme-stats-swart-nu.vercel.app/api/top-langs/?username=Pranav-Talmale&theme=midnight-purple&layout=compact" />
 </div>
 
 <picture>
