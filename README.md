@@ -3,6 +3,7 @@
 🚀 **Software Developer | AI Enthusiast | Open-Source Contributor**
 
 I'm a passionate **full-stack developer, Android custom ROM maintainer, and AI enthusiast** with experience in **web & mobile development, machine learning, cloud computing, and system development**. My contributions to open-source projects have reached over **100,000+ downloads worldwide**, and I love building innovative solutions that enhance user experience and system efficiency.
+<a href="https://cs50.me/cs50p">https://cs50.me/cs50p</a>
 
 ## 🔧 Tech Stack
 
